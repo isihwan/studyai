@@ -1,0 +1,2 @@
+# studyai
+study ai
